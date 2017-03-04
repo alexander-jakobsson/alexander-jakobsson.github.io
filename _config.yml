@@ -9,7 +9,7 @@
 title: Alexander Jakobsson
 email: jakobsson.alex@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  You might have guessed this is a website.
+  You might have guessed that this is a website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: 
