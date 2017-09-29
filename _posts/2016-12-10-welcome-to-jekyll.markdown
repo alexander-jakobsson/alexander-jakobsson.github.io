@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Post"
-date:   2016-12-10 20:06:54 -0500
-categories: this is a post
----
-
-Haha. 
-
